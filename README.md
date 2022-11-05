@@ -13,6 +13,6 @@ This is a mobile application created using Android Studio. This Application will
 
 ### Download.
 
-To download the app click [here]()
+To download the app click [here](https://github.com/SubramanyaKS/Vtu-sgpa-calculator/blob/main/Vtu_SGPACGPA_Calculator_1.0.apk)
 
 If you like this work ⭐ repository.
