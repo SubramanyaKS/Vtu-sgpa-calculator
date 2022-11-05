@@ -15,4 +15,20 @@ This is a mobile application created using Android Studio. This Application will
 
 To download the app click [here](https://github.com/SubramanyaKS/Vtu-sgpa-calculator/blob/main/Vtu_SGPACGPA_Calculator_1.0.apk)
 
+### Pre requesite.
+
+**for download**
+
+* android mobile required
+
+**for forking and run the project**
+
+* Android Studio is required.
+* Java jdk is required.
+
+
+### Contribute.
+
+If there are issues present in project please raise issue and also if you want to contribute feel free to contribute.
+
 If you like this work ⭐ repository.
