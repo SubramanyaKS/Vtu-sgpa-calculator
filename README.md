@@ -1,4 +1,4 @@
-# Vtu-sgpa-calculator
+# Vtu Sgpa Cgpa Calculator
 
 [![GitHub stars](https://img.shields.io/github/stars/SubramanyaKS/Vtu-sgpa-calculator?style=flat-square)](https://github.com/SubramanyaKS/Vtu-sgpa-calculator/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/SubramanyaKS/Vtu-sgpa-calculator?style=flat-square)](https://github.com/SubramanyaKS/Vtu-sgpa-calculator/network)
