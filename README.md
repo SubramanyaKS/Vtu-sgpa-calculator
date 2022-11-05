@@ -10,6 +10,9 @@ This is a mobile application created using Android Studio. This Application will
 ### Tools/Technology.
 1. ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 2. ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-3. XML
+
+### Download.
+
+To download the app click [here]()
 
 If you like this work ⭐ repository.
